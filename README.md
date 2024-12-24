@@ -11,10 +11,11 @@ This is a simple application for creating and managing tasks using React. It all
 
 ## Technology Stack
 
+| Стек технологий | Описание                             |
 |-----------------|--------------------------------------|
-| React           | A library for creating interfaces. |
-| JavaScript      | A programming language for the frontend.|
-| CSS             | Technology for styling web pages.|
+| React           | Библиотека для создания интерфейсов. |
+| JavaScript      | Язык программирования для фронтенда.|
+| CSS             | Технология для стилизации веб-страниц.|
 
 ## Installation and startup
 
