@@ -54,17 +54,18 @@ function App() {
   };
 
   return (
-    <div>
-      <h1>To-Do List</h1>
+    <div className="app-container">
+      <h1 className="caption-container">To-Do List</h1>
       {/* Input field and add button */}
       <div>
         <input
+          className="input-container"
           type="text"
           value={newTask}
           onChange={(e) => setNewTask(e.target.value)}
           placeholder="Enter a task"
         />
-        <button onClick={addTask}> Add Task </button>
+        <button className="input-button" onClick={addTask}> Create Task </button>
       </div>
       {/* Component for displaying the task list */}
       <TodoList tasks = {tasks} toggleTask={toggleTask} deleteTask={deleteTask} />
