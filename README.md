@@ -11,6 +11,7 @@ This is a simple application for creating and managing tasks using React. It all
 
 ## Technology Stack
 
+|-----------------|--------------------------------------|
 | React           | A library for creating interfaces. |
 | JavaScript      | A programming language for the frontend.|
 | CSS             | Technology for styling web pages.|
