@@ -22,7 +22,7 @@ This is a simple application for creating and managing tasks using React. It all
 1. Clone the repository:
 
    ```bash
-   git clone https://https://github.com/alexkrnnk/react-todo-list.git
+   git clone https://github.com/alexkrnnk/react-todo-list.git
 
 2. Navigate to the project catalog:
 
